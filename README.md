@@ -26,5 +26,6 @@ Hi there, I'm Gavin Arori, a frontend developer with a passion for creating enga
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GavinArori&label=34&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gavinarori&label=Frontend%20developer&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
