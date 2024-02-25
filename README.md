@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 I am a frontend developer proficient in Redux, JavaScript, TypeScript, React, Next.js, CSS, and HTML. With a strong focus on user experience, I specialize in creating seamless and visually appealing web applications. My expertise in managing application state with Redux, building interactive interfaces using JavaScript and TypeScript, and leveraging frameworks like React and Next.js allows me to deliver high-quality, performant solutions.😎
 
 # 💻 Tech Stack:
